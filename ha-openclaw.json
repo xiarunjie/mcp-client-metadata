@@ -1,0 +1,8 @@
+{
+  "client_id": "https://raw.githubusercontent.com/xiarunjie/mcp-client-metadata/main/ha-openclaw.json",
+  "client_name": "OpenClaw MCP",
+  "redirect_uris": ["http://127.0.0.1:8989/oauth/callback", "http://localhost:8989/oauth/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
